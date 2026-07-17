@@ -1,0 +1,384 @@
+{
+  "products": [
+    {
+      "id": "sony-wh-1000xm5-headphones",
+      "category": "electronics",
+      "title": "Sony WH-1000XM5 Wireless Headphones",
+      "tagline": "A quiet-work headphone choice for calls, travel, and focused listening.",
+      "image": "/images/sony-wh-1000xm5-headphones.jpg",
+      "affiliateLink": "https://www.sony.com/headphones",
+      "painPoint": "Busy homes, shared offices, transit noise, and long video-call days make ordinary headphones feel tiring. A good pair needs to stay comfortable, handle calls clearly, and move between a laptop and phone without becoming a chore.",
+      "deepReview": "Sony's over-ear wireless headphone line is a familiar choice for people who want noise reduction without building a complicated audio setup. The WH-1000XM5 belongs on a shortlist for remote work and commuting because comfort, call quality, battery life, and app controls all matter during regular use.",
+      "pros": [
+        "Comfortable over-ear design for work sessions and flights",
+        "Noise control for offices, trains, and daily commuting",
+        "Broad accessory and support availability"
+      ],
+      "cons": [
+        "Higher price than basic Bluetooth headphones",
+        "Full-size design takes more bag space than earbuds"
+      ]
+    },
+    {
+      "id": "anker-737-power-bank",
+      "category": "electronics",
+      "title": "Anker 737 Power Bank",
+      "tagline": "A portable charging upgrade for laptops, phones, tablets, and travel bags.",
+      "image": "/images/anker-737-power-bank.jpg",
+      "affiliateLink": "https://www.anker.com",
+      "painPoint": "Modern travelers carry more devices than ever, but wall outlets are not always nearby. A weak power bank may handle a phone once, yet still leave a laptop, tablet, or camera battery short during a long workday.",
+      "deepReview": "Anker is a familiar name in consumer charging, and higher-capacity power banks help prevent the usual low-battery scramble. The main details are capacity, output ports, display information, weight, and whether your laptop or phone can actually use the advertised charging speed.",
+      "pros": [
+        "Helpful for travel, commuting, and mobile work",
+        "Works naturally with phone, tablet, and laptop charging routines",
+        "Wide charging accessory ecosystem"
+      ],
+      "cons": [
+        "Larger than pocket-sized phone-only chargers",
+        "Actual charging speed depends on cable and device compatibility"
+      ]
+    },
+    {
+      "id": "apple-airpods-pro",
+      "category": "electronics",
+      "title": "Apple AirPods Pro",
+      "tagline": "Compact earbuds for commuting, calls, workouts, and everyday Apple device use.",
+      "image": "/images/apple-airpods-pro.jpg",
+      "affiliateLink": "https://www.apple.com/airpods-pro/",
+      "painPoint": "Not everyone wants to carry full-size headphones. Earbuds make more sense for walking, workouts, quick calls, and daily carry when pocket space matters.",
+      "deepReview": "AirPods Pro make the most sense for people who already use Apple devices. The main appeal is convenience: simple pairing, compact charging, transparency mode, and a small form factor for commuting, meetings, and casual listening.",
+      "pros": [
+        "Very compact for daily carry and travel",
+        "Fits naturally into Apple-centered device routines",
+        "Works for calls, podcasts, music, and walking"
+      ],
+      "cons": [
+        "Battery life is shorter than full-size headphones",
+        "Best experience is strongest inside the Apple ecosystem"
+      ]
+    },
+    {
+      "id": "logitech-mx-master-3s",
+      "category": "electronics",
+      "title": "Logitech MX Master 3S Mouse",
+      "tagline": "A productivity mouse for spreadsheets, design work, browsing, and long desk sessions.",
+      "image": "/images/logitech-mx-master-3s.jpg",
+      "affiliateLink": "https://www.logitech.com",
+      "painPoint": "A basic mouse can feel limiting when work involves long documents, large spreadsheets, design tools, or multiple screens. Comfort and scrolling control matter when the mouse is used all day.",
+      "deepReview": "The MX Master line is built for people who spend long hours at a desk. It makes the most sense when your work involves spreadsheets, design tools, long documents, or moving between several apps every day.",
+      "pros": [
+        "Ergonomic shape for extended desk use",
+        "Helpful scrolling and shortcut controls",
+        "Helpful controls for productivity and home office work"
+      ],
+      "cons": [
+        "Larger shape may not suit every hand",
+        "More expensive than simple wireless mice"
+      ]
+    },
+    {
+      "id": "nike-tech-fleece-hoodie",
+      "category": "apparel",
+      "title": "Nike Tech Fleece Hoodie",
+      "tagline": "A casual layer for travel days, errands, gym commutes, and relaxed weekends.",
+      "image": "/images/nike-tech-fleece-hoodie.jpg",
+      "affiliateLink": "https://www.nike.com",
+      "painPoint": "Many casual hoodies feel bulky, lose shape quickly, or look too relaxed outside the house. One dependable layer can cover errands, flights, gym commutes, and weekend outfits.",
+      "deepReview": "Nike's Tech Fleece line sits between athletic wear and everyday casual style. It suits buyers who want a hoodie that feels lighter than a heavy sweatshirt but still works for errands, travel days, and relaxed outfits.",
+      "pros": [
+        "Easy to style with sneakers, joggers, denim, and travel outfits",
+        "Lightweight warmth without a heavy coat feel",
+        "Familiar style across casual and athletic wardrobes"
+      ],
+      "cons": [
+        "Sporty styling may not suit business-casual wardrobes",
+        "Color and size availability can vary by season"
+      ]
+    },
+    {
+      "id": "adidas-ultraboost-shoes",
+      "category": "apparel",
+      "title": "adidas Ultraboost Shoes",
+      "tagline": "Comfort-focused sneakers for walking, travel days, and everyday casual outfits.",
+      "image": "/images/adidas-ultraboost-shoes.jpg",
+      "affiliateLink": "https://www.adidas.com",
+      "painPoint": "Travel and daily errands expose uncomfortable shoes quickly. The goal is a sneaker that feels supportive for walking but still looks clean enough for casual outfits.",
+      "deepReview": "adidas Ultraboost sneakers are often chosen by people who want one shoe for walking and casual wear. Sizing, arch feel, upper material, and outfit compatibility matter more than the product photo alone.",
+      "pros": [
+        "Comfortable sneaker category for long walking days",
+        "Easy to style with casual and athleisure outfits",
+        "Recognizable footwear brand with broad availability"
+      ],
+      "cons": [
+        "Sporty look may not fit formal outfits",
+        "Sizing and fit preferences should be checked carefully"
+      ]
+    },
+    {
+      "id": "uniqlo-airism-t-shirt",
+      "category": "apparel",
+      "title": "UNIQLO AIRism Cotton T-Shirt",
+      "tagline": "A simple everyday tee for layering, warm weather, and travel packing.",
+      "image": "/images/uniqlo-airism-t-shirt.jpg",
+      "affiliateLink": "https://www.uniqlo.com",
+      "painPoint": "A good basic T-shirt should not feel heavy, transparent, or hard to match. The best basics get worn at home, packed for trips, layered under jackets, and replaced without drama.",
+      "deepReview": "UNIQLO basics are popular because they are easy to match and usually simple to replace. AIRism-style tees make sense for warm weather, travel packing, and layered outfits where a heavy shirt would feel uncomfortable.",
+      "pros": [
+        "Simple basic that supports many outfit combinations",
+        "Good option for travel packing and capsule wardrobes",
+        "Accessible price positioning for a wardrobe basic"
+      ],
+      "cons": [
+        "Minimal styling may feel too plain for some wardrobes",
+        "Seasonal colors and fit options can change"
+      ]
+    },
+    {
+      "id": "lululemon-abc-pant",
+      "category": "apparel",
+      "title": "lululemon ABC Pant",
+      "tagline": "A polished comfort pant for travel, office-casual days, and weekends.",
+      "image": "/images/lululemon-abc-pant.jpg",
+      "affiliateLink": "https://shop.lululemon.com",
+      "painPoint": "Traditional chinos can feel stiff during travel or long workdays, while sweatpants are too casual for many everyday situations. A good modern pant needs comfort, structure, and enough polish to move between settings.",
+      "deepReview": "The ABC Pant is for people who want pants that feel more relaxed than chinos but still look cleaner than sweatpants. Fit, fabric weight, pocket layout, and workplace expectations are the details to look at first.",
+      "pros": [
+        "Flexible enough for commuting and long sitting hours",
+        "Clean styling works with sneakers, shirts, and light jackets",
+        "Suitable for travel and office-casual wardrobes"
+      ],
+      "cons": [
+        "Costs more than basic casual pants",
+        "Fit preference depends on body type and intended use"
+      ]
+    },
+    {
+      "id": "sephora-hydrating-serum",
+      "category": "skincare",
+      "title": "Sephora Collection Hydrating Serum",
+      "tagline": "A simple hydration step for everyday skincare routines.",
+      "image": "/images/sephora-hydrating-serum.jpg",
+      "affiliateLink": "https://www.sephora.com",
+      "painPoint": "Dry indoor air, inconsistent sleep, and rushed morning routines can make skin feel tight or dull. A hydration step should fit into an existing routine without turning skincare into a long checklist.",
+      "deepReview": "A hydrating serum is usually a support step rather than a complete routine. It works best as a lightweight layer between cleansing and moisturizer, especially when indoor air or weather makes skin feel dry.",
+      "pros": [
+        "Easy skincare step for beginners to understand",
+        "Pairs naturally with cleanser, moisturizer, and sunscreen",
+        "Fits easily into a basic beauty or self-care routine"
+      ],
+      "cons": [
+        "Ingredient preferences vary by skin type",
+        "Sensitive skin may require a closer ingredient review"
+      ]
+    },
+    {
+      "id": "kiehls-ultra-facial-cream",
+      "category": "skincare",
+      "title": "Kiehl's Ultra Facial Cream",
+      "tagline": "A daily moisturizer option for simple morning and evening routines.",
+      "image": "/images/kiehls-ultra-facial-cream.jpg",
+      "affiliateLink": "https://www.kiehls.com",
+      "painPoint": "A moisturizer that feels too heavy can be annoying during the day, while a thin product may not feel supportive enough in dry weather. Shoppers often want a dependable daily cream that does not require a complicated routine.",
+      "deepReview": "Kiehl's Ultra Facial Cream is a familiar moisturizer for people building a straightforward daily care shelf. Texture, ingredients, size options, and finish are the details that matter most.",
+      "pros": [
+        "Simple product role in a daily skincare routine",
+        "Well-known brand with broad retail availability",
+        "Works as part of a simple starter routine"
+      ],
+      "cons": [
+        "Not every texture preference is the same",
+        "Specialized skin concerns may need targeted products"
+      ]
+    },
+    {
+      "id": "the-ordinary-niacinamide-serum",
+      "category": "skincare",
+      "title": "The Ordinary Niacinamide Serum",
+      "tagline": "A straightforward serum option for a simple skincare shelf.",
+      "image": "/images/the-ordinary-niacinamide-serum.jpg",
+      "affiliateLink": "https://theordinary.com",
+      "painPoint": "Skincare can feel overwhelming when product names and claims overlap. A clear single-ingredient-style product can make the routine easier to understand.",
+      "deepReview": "The Ordinary is known for ingredient-focused skincare. Niacinamide serum is worth researching if you are trying to understand product roles and keep a routine simple, but it should still be introduced carefully like any new skincare step.",
+      "pros": [
+        "Clear role for beginner skincare routines",
+        "Ingredient-focused positioning helps comparison",
+        "Accessible brand for building a simple routine"
+      ],
+      "cons": [
+        "Not every ingredient suits every skin type",
+        "Layering with other products should be kept simple"
+      ]
+    },
+    {
+      "id": "cerave-hydrating-cleanser",
+      "category": "skincare",
+      "title": "CeraVe Hydrating Cleanser",
+      "tagline": "A gentle cleanser category for simple morning and evening routines.",
+      "image": "/images/cerave-hydrating-cleanser.jpg",
+      "affiliateLink": "https://www.cerave.com",
+      "painPoint": "Some cleansers leave skin feeling tight, especially in dry weather or after repeated washing. Shoppers may want a basic cleansing step that does not make the routine feel harsh.",
+      "deepReview": "CeraVe is a common name in basic skincare routines. A hydrating cleanser fits people who want a gentle wash step and prefer to avoid products that leave skin feeling tight.",
+      "pros": [
+        "Clear role as a daily cleansing step",
+        "Good fit for beginner skincare routines",
+        "Widely recognized skincare brand"
+      ],
+      "cons": [
+        "Texture preference varies by shopper",
+        "Specific skin concerns may need professional guidance"
+      ]
+    },
+    {
+      "id": "ikea-poang-armchair",
+      "category": "home",
+      "title": "IKEA POANG Armchair",
+      "tagline": "A familiar reading-chair option for apartments, living rooms, and calm corners.",
+      "image": "/images/ikea-poang-armchair.jpg",
+      "affiliateLink": "https://www.ikea.com",
+      "painPoint": "Small apartments need furniture that feels comfortable without making the room look crowded. A light reading chair can create a lounge corner without committing to a bulky recliner.",
+      "deepReview": "The POANG-style armchair is familiar, affordable, and easy to picture in real rooms. It works for reading corners, small apartments, nursery seating, or a simple living-room refresh.",
+      "pros": [
+        "Works well in small living rooms and reading corners",
+        "Recognizable design with multiple cover options",
+        "Accessible home product for many room styles"
+      ],
+      "cons": [
+        "Not as plush as a large lounge chair",
+        "Assembly and local availability should be checked before purchase"
+      ]
+    },
+    {
+      "id": "philips-hue-starter-kit",
+      "category": "home",
+      "title": "Philips Hue Starter Kit",
+      "tagline": "Smart lighting for bedrooms, workspaces, and evening routines.",
+      "image": "/images/philips-hue-starter-kit.jpg",
+      "affiliateLink": "https://www.philips-hue.com",
+      "painPoint": "Lighting changes how a room feels, but renters and homeowners may not want to replace fixtures. Smart bulbs give people a simpler way to adjust brightness, color temperature, and evening mood without renovation.",
+      "deepReview": "Philips Hue is a common starting point for better lighting without replacing fixtures. A starter kit can test smart lighting in a bedroom, desk area, or living room before expanding further.",
+      "pros": [
+        "Easy room upgrade without replacing furniture",
+        "Works for focus, reading, and evening wind-down routines",
+        "Expandable ecosystem for larger home setups"
+      ],
+      "cons": [
+        "Costs more than basic light bulbs",
+        "Best experience depends on setup choices and device compatibility"
+      ]
+    },
+    {
+      "id": "dyson-v8-cordless-vacuum",
+      "category": "home",
+      "title": "Dyson V8 Cordless Vacuum",
+      "tagline": "A cordless cleaning tool for apartments, quick resets, and pet-hair touchups.",
+      "image": "/images/dyson-v8-cordless-vacuum.jpg",
+      "affiliateLink": "https://www.dyson.com",
+      "painPoint": "Heavy vacuums make small cleaning tasks feel bigger than they are. A cordless model can make it easier to handle crumbs, dust, entryways, and quick room resets.",
+      "deepReview": "A cordless Dyson vacuum suits homes where quick cleanups matter more than pulling out a full-size vacuum. Runtime, attachments, bin size, flooring type, and storage space are the main considerations.",
+      "pros": [
+        "Cordless format supports quick cleaning routines",
+        "Works for apartments, stairs, and small messes",
+        "Recognizable home appliance brand"
+      ],
+      "cons": [
+        "Runtime and suction mode vary by setting",
+        "Higher price than basic corded vacuums"
+      ]
+    },
+    {
+      "id": "ninja-air-fryer",
+      "category": "home",
+      "title": "Ninja Air Fryer",
+      "tagline": "A kitchen appliance option for fast weeknight meals and simple snacks.",
+      "image": "/images/ninja-air-fryer.jpg",
+      "affiliateLink": "https://www.ninjakitchen.com",
+      "painPoint": "Busy households often want faster meals without heating a full oven. Countertop appliances can help with quick sides, snacks, reheating, and simple weeknight cooking.",
+      "deepReview": "A Ninja air fryer fits kitchens where reheating food, making quick sides, or preparing small meals happens often. Capacity, cleaning, storage space, and cooking presets are the main details to check.",
+      "pros": [
+        "Helpful for quick meals and reheating",
+        "Works for small kitchens and busy households",
+        "Recognizable brand in small appliances"
+      ],
+      "cons": [
+        "Takes counter or cabinet space",
+        "Capacity should match household size"
+      ]
+    },
+    {
+      "id": "away-carry-on",
+      "category": "travel",
+      "title": "Away The Carry-On",
+      "tagline": "A clean hard-shell suitcase option for short trips and organized packing.",
+      "image": "/images/away-carry-on.jpg",
+      "affiliateLink": "https://www.awaytravel.com",
+      "painPoint": "Short trips become frustrating when a suitcase is hard to roll, poorly divided, or too bulky for common travel routines. A good carry-on should make a few days away feel easier to pack.",
+      "deepReview": "Away's carry-on luggage is aimed at travelers who want a clean hard-shell suitcase for short trips. Airline size limits, interior layout, wheel feel, and hard-shell preference are the details to review.",
+      "pros": [
+        "Clean hard-shell look for short trips",
+        "Practical for short trips and carry-on packing routines",
+        "Recognizable direct-to-consumer travel brand"
+      ],
+      "cons": [
+        "Carry-on rules can vary by airline and route",
+        "Hard-shell suitcases may show scuffs over time"
+      ]
+    },
+    {
+      "id": "patagonia-black-hole-duffel",
+      "category": "travel",
+      "title": "Patagonia Black Hole Duffel",
+      "tagline": "A rugged soft bag for road trips, outdoor weekends, and flexible packing.",
+      "image": "/images/patagonia-black-hole-duffel.jpg",
+      "affiliateLink": "https://www.patagonia.com",
+      "painPoint": "Rigid luggage is not always ideal for road trips, outdoor weekends, or gear-heavy travel. A flexible duffel can be easier to load, carry, and store when the packing list includes shoes, jackets, and mixed daily items.",
+      "deepReview": "Patagonia's Black Hole Duffel makes sense when a suitcase feels too rigid. A soft duffel can be easier for road trips, outdoor weekends, gym gear, or travel where the bag needs to fit into irregular spaces.",
+      "pros": [
+        "Works for outdoor weekends, road trips, and flexible packing",
+        "Soft-sided format stores more easily than rigid luggage",
+        "Good match for travel and outdoor weekends"
+      ],
+      "cons": [
+        "Less structured than a wheeled suitcase",
+        "May not be ideal for formal business travel packing"
+      ]
+    },
+    {
+      "id": "samsonite-freeform-carry-on",
+      "category": "travel",
+      "title": "Samsonite Freeform Carry-On",
+      "tagline": "A hard-side suitcase option for frequent short trips and airport routines.",
+      "image": "/images/samsonite-freeform-carry-on.jpg",
+      "affiliateLink": "https://shop.samsonite.com",
+      "painPoint": "Travelers who fly often need luggage that feels easy to roll, simple to pack, and familiar enough to trust across repeated trips. A random suitcase can become frustrating quickly if wheels or compartments are poor.",
+      "deepReview": "Samsonite is an established luggage brand, and a hard-side carry-on suits business trips, weekends, and repeat airport travel. Wheel movement, handle height, interior dividers, and airline rules deserve a close look.",
+      "pros": [
+        "Clear suitcase choice for short flight-based trips",
+        "Established luggage brand with broad availability",
+        "Good alternative to direct-to-consumer luggage brands"
+      ],
+      "cons": [
+        "Airline rules and personal packing style still matter",
+        "Hard shells may show travel marks over time"
+      ]
+    },
+    {
+      "id": "peak-design-travel-backpack",
+      "category": "travel",
+      "title": "Peak Design Travel Backpack",
+      "tagline": "A structured travel backpack for camera gear, tech, and organized carry.",
+      "image": "/images/peak-design-travel-backpack.jpg",
+      "affiliateLink": "https://www.peakdesign.com",
+      "painPoint": "Tech-heavy travelers need more organization than a basic backpack provides. Cameras, chargers, laptops, documents, and clothes can become difficult to access without a more structured carry system.",
+      "deepReview": "Peak Design travel backpacks are built for people carrying cameras, laptops, chargers, documents, and clothing in the same bag. The structured layout helps organized packers, but it may be more than a casual traveler needs.",
+      "pros": [
+        "Strong organization angle for tech and camera travel",
+        "Backpack format keeps hands free in transit",
+        "Good fit for creators and tech-heavy travelers"
+      ],
+      "cons": [
+        "More specialized than a basic travel backpack",
+        "Structured layouts may feel excessive for simple weekend trips"
+      ]
+    }
+  ]
+}

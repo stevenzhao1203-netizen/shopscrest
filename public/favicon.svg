@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ShopsCrest</title>
+  <desc id="desc">Maximum size ShopsCrest shield favicon with a shopping bag and gold check.</desc>
+  <defs>
+    <linearGradient id="shieldFill" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E3A2A"/>
+      <stop offset="1" stop-color="#08251B"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 0 64 14v21C64 50.8 51.2 60.5 32 64 12.8 60.5 0 50.8 0 35V14L32 0Z" fill="url(#shieldFill)"/>
+  <path d="M32 6.4 58.4 18v16.6c0 12.7-9.5 20.7-26.4 24.3C15.1 55.3 5.6 47.3 5.6 34.6V18L32 6.4Z" stroke="#CDEBDD" stroke-width="3"/>
+  <path d="M16.4 29h31.2l-2.9 22H19.3l-2.9-22Z" fill="#F8FBF8"/>
+  <path d="M24.2 29.2v-4.6c0-4.9 3.2-8.3 7.8-8.3s7.8 3.4 7.8 8.3v4.6" stroke="#F8FBF8" stroke-width="4.4" stroke-linecap="round"/>
+  <path d="M25.4 38.4c1.9 2.4 4 3.5 6.7 3.5 2.6 0 4.7-1.1 6.6-3.5" stroke="#0E3A2A" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M45.8 15.1 49.7 19.1 58 9.8" stroke="#DDB24C" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

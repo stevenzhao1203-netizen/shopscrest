@@ -1,0 +1,40 @@
+
+> shopcrest-affiliate-mvp@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.20
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.7:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (585 modules)
+ GET / 200 in 1722ms
+ GET / 200 in 6171ms
+ GET / 200 in 231ms
+ GET / 200 in 360ms
+ GET / 200 in 556ms
+ ✓ Compiled in 315ms (343 modules)
+ GET / 200 in 284ms
+ GET / 200 in 284ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 4.1s (918 modules)
+ GET / 500 in 8788ms
+ GET / 500 in 2665ms
+ GET / 500 in 2675ms
+ GET / 500 in 380ms
+ GET / 500 in 320ms
+ GET / 500 in 331ms
+ GET / 500 in 344ms
+ GET / 500 in 316ms
+ ✓ Compiled in 383ms (537 modules)
+ ✓ Compiled in 412ms (537 modules)
+ ✓ Compiled in 2.9s (932 modules)
+ ✓ Compiled in 438ms (537 modules)
+ GET / 200 in 329ms
+ ○ Compiling /products/[id] ...
+ ✓ Compiled /products/[id] in 2s (989 modules)
+ GET /about 200 in 3142ms
+ GET /products/sony-wh-1000xm5-headphones 500 in 6802ms
+ ✓ Compiled in 555ms (537 modules)

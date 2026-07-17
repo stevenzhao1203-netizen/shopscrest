@@ -1,0 +1,24 @@
+{
+  "name": "shopcrest-affiliate-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "deploy:cloudflare": "npm run build && wrangler pages deploy out --project-name shopcrest-affiliate-mvp",
+    "clean": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/clean-workspace.ps1",
+    "clean:full": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/clean-workspace.ps1 -RemoveNodeModules"
+  },
+  "dependencies": {
+    "next": "^15.5.9",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0",
+    "@types/react": "^19.2.17",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.53.0"
+  }
+}

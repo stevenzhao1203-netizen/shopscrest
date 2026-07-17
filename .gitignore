@@ -1,0 +1,12 @@
+.next/
+.open-next/
+node_modules/
+.vercel/
+.wrangler/
+out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+desktop-check.png
+mobile-check.png
+mobile-*.png

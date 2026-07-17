@@ -1,0 +1,23 @@
+
+> shopcrest-affiliate-mvp@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.20
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.7:3000
+
+ ✓ Starting...
+ ✓ Ready in 4s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.3s (585 modules)
+ GET / 200 in 1711ms
+ GET / 200 in 6130ms
+ ✓ Compiled /_not-found in 400ms (576 modules)
+ GET / 404 in 818ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 2.7s (923 modules)
+ GET / 500 in 3871ms
+ GET / 500 in 2076ms
+ GET / 500 in 311ms
+ GET / 500 in 282ms
+[?25h

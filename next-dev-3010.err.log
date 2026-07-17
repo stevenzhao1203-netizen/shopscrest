@@ -1,0 +1,141 @@
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ Error: Could not find the module "E:\网站\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '2742873163'
+}
+ ⨯ Error: Could not find the module "E:\网站\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '264971311'
+}
+ ⨯ Error: Could not find the module "E:\网站\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '264971311'
+}
+ ⨯ Error: Could not find the module "E:\网站\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '264971311'
+}
+ ⨯ Error: Could not find the module "E:\网站\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '2742873163'
+}
+ ⨯ Error: Could not find the module "E:\网站\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '2742873163'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '3255028387'
+}
+ ⨯ Error: Could not find the module "E:\网站\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '2742873163'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/'
+}
+ ⨯ Error: Cannot find module './833.js'
+Require stack:
+- E:\网站\.next\server\webpack-runtime.js
+- E:\网站\.next\server\pages\_document.js
+- E:\网站\node_modules\next\dist\server\require.js
+- E:\网站\node_modules\next\dist\server\load-components.js
+- E:\网站\node_modules\next\dist\build\utils.js
+- E:\网站\node_modules\next\dist\build\swc\options.js
+- E:\网站\node_modules\next\dist\build\swc\index.js
+- E:\网站\node_modules\next\dist\build\analysis\parse-module.js
+- E:\网站\node_modules\next\dist\build\analysis\get-page-static-info.js
+- E:\网站\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- E:\网站\node_modules\next\dist\server\lib\router-server.js
+- E:\网站\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (E:\网站\.next\server\app\page.js:2:8232)
+    at Object.<anonymous> (E:\网站\.next\server\app\page.js:2:8285) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './833.js'
+Require stack:
+- E:\网站\.next\server\webpack-runtime.js
+- E:\网站\.next\server\pages\_document.js
+- E:\网站\node_modules\next\dist\server\require.js
+- E:\网站\node_modules\next\dist\server\load-components.js
+- E:\网站\node_modules\next\dist\build\utils.js
+- E:\网站\node_modules\next\dist\build\swc\options.js
+- E:\网站\node_modules\next\dist\build\swc\index.js
+- E:\网站\node_modules\next\dist\build\analysis\parse-module.js
+- E:\网站\node_modules\next\dist\build\analysis\get-page-static-info.js
+- E:\网站\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- E:\网站\node_modules\next\dist\server\lib\router-server.js
+- E:\网站\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (E:\网站\.next\server\app\page.js:2:8232)
+    at Object.<anonymous> (E:\网站\.next\server\app\page.js:2:8285) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './833.js'
+Require stack:
+- E:\网站\.next\server\webpack-runtime.js
+- E:\网站\.next\server\pages\_document.js
+- E:\网站\node_modules\next\dist\server\require.js
+- E:\网站\node_modules\next\dist\server\load-components.js
+- E:\网站\node_modules\next\dist\build\utils.js
+- E:\网站\node_modules\next\dist\build\swc\options.js
+- E:\网站\node_modules\next\dist\build\swc\index.js
+- E:\网站\node_modules\next\dist\build\analysis\parse-module.js
+- E:\网站\node_modules\next\dist\build\analysis\get-page-static-info.js
+- E:\网站\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- E:\网站\node_modules\next\dist\server\lib\router-server.js
+- E:\网站\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (E:\网站\.next\server\app\page.js:2:8232)
+    at Object.<anonymous> (E:\网站\.next\server\app\page.js:2:8285) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './833.js'
+Require stack:
+- E:\网站\.next\server\webpack-runtime.js
+- E:\网站\.next\server\pages\_document.js
+- E:\网站\node_modules\next\dist\server\require.js
+- E:\网站\node_modules\next\dist\server\load-components.js
+- E:\网站\node_modules\next\dist\build\utils.js
+- E:\网站\node_modules\next\dist\build\swc\options.js
+- E:\网站\node_modules\next\dist\build\swc\index.js
+- E:\网站\node_modules\next\dist\build\analysis\parse-module.js
+- E:\网站\node_modules\next\dist\build\analysis\get-page-static-info.js
+- E:\网站\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- E:\网站\node_modules\next\dist\server\lib\router-server.js
+- E:\网站\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (E:\网站\.next\server\app\page.js:2:8232)
+    at Object.<anonymous> (E:\网站\.next\server\app\page.js:2:8285) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ [TypeError: a[d] is not a function] { digest: '2643493612' }
+[TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function] { page: '/' }
+ ⨯ [TypeError: a[d] is not a function] { digest: '2643493612' }
+[TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function] { page: '/' }
+ ⨯ [TypeError: a[d] is not a function] { digest: '2643493612' }
+[TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function] { page: '/' }
+ ⨯ [TypeError: a[d] is not a function] { digest: '2643493612' }
+[TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function] { page: '/' }
+ ⨯ [TypeError: a[d] is not a function] { digest: '2643493612' }
+[TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function]
+ ⨯ [TypeError: a[d] is not a function] { page: '/' }

@@ -1,0 +1,23 @@
+<svg width="302" height="68" viewBox="0 0 302 68" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ShopsCrest</title>
+  <desc id="desc">ShopsCrest shopping guides logo with a premium shopping bag crest.</desc>
+
+  <defs>
+    <linearGradient id="bagFill" x1="10" y1="5" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E3A2A"/>
+      <stop offset="1" stop-color="#08251B"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M34 4 58 14.5v17.1c0 14.9-9.7 24.1-24 29.4C19.7 55.7 10 46.5 10 31.6V14.5L34 4Z" fill="url(#bagFill)"/>
+  <path d="M34 8.6 53.6 17.2v14c0 11.6-7.1 19-19.6 23.5-12.5-4.5-19.6-11.9-19.6-23.5v-14L34 8.6Z" stroke="#CDEBDD" stroke-width="2"/>
+
+  <path d="M22.7 27.2h22.6l-2.1 17.1H24.8l-2.1-17.1Z" fill="#F8FBF8"/>
+  <path d="M28.3 27.4v-3.1c0-3.4 2.4-6 5.7-6s5.7 2.6 5.7 6v3.1" stroke="#F8FBF8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M29.1 34.6c1.4 1.7 3 2.6 5 2.6 2.1 0 3.7-.9 5.1-2.6" stroke="#0E3A2A" stroke-width="2.3" stroke-linecap="round"/>
+  <path d="M46.6 18.4 49 20.9l4.8-5.6" stroke="#DDB24C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="74" y="29" fill="#111713" font-family="Inter, Arial, Helvetica, sans-serif" font-size="24.2" font-weight="900" letter-spacing="0">ShopsCrest</text>
+  <text x="76" y="48" fill="#66706B" font-family="Inter, Arial, Helvetica, sans-serif" font-size="9.2" font-weight="850" letter-spacing="1.9">SHOPPING GUIDES</text>
+  <path d="M76 56h74" stroke="#1E8F5F" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M160 56h34" stroke="#D49B36" stroke-width="3.2" stroke-linecap="round"/>
+</svg>
