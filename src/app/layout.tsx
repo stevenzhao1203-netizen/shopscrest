@@ -34,6 +34,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <head>
         <meta name="shopscrest-site-owner" content="shopscrest.com" />
         <meta name="verify-admitad" content="55fe10f140" />
+        <meta name="fo-verify" content="797145ec-8b2b-4f13-ble9-e8e93d7f1198" />
         <link rel="icon" href="/favicon.ico?v=8" sizes="32x32" />
         <link rel="shortcut icon" href="/favicon.ico?v=8" />
         <link rel="icon" href="/favicon.svg?v=8" type="image/svg+xml" />
